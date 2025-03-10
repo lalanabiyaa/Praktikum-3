@@ -1,0 +1,60 @@
+body {
+   font-family: Segoe UI;
+   margin: 0;
+   padding: 0;
+}
+
+.box {
+   margin: 20px auto;
+   width: 1000px;
+   border: 5px solid #00a3a8;
+   border-radius: 14px;
+   padding: 20px;
+   background-color: white;
+   font-size: 1.2em;
+}
+
+.container {
+   background-color: #00a3a8;
+   color: white;
+   padding: 15px;
+   font-size: 1em;
+   margin: 20px auto;
+   font-weight: bold;
+}
+
+img {
+   margin: 20px auto;
+   max-width: block;
+   width: 1000px;
+   margin-left: 430px;
+}
+
+h2 {
+   color: #00a3a8;
+   margin-bottom: 10px;
+   margin: 20px auto;
+   width: 1000px;
+}
+
+.section p {
+   font-size: 16px;
+   color: #333;
+   line-height: 1.6;
+   margin: 20px auto;
+   width: 1000px;
+}
+
+ul {
+   padding-left: 100px;
+   font-size: 16px;
+   margin: 20px auto;
+   width: 1000px;
+}
+
+ol {
+   padding-left: 100px;
+   font-size: 16px;
+   margin: 20px auto;
+   width: 1000px;
+}
