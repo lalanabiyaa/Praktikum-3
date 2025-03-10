@@ -1,0 +1,66 @@
+body {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+   background: url('sertif.png') no-repeat center center;
+   background-size: cover;
+   padding: 50px;
+}
+
+.certificate {
+   background-color: white;
+   padding: 50px;
+   width: 80%;
+   margin: auto;
+}
+
+.title {
+   font-size: 60px;
+   color: #2d456e;
+}
+
+.subtitle {
+   font-size: 30px;
+   color: #3f4650;
+}
+
+.certificate-number {
+   font-size: 35px;
+   color: black;
+}
+
+.name {
+   font-size: 55px;
+   color: #951f1d;
+   font-weight: bold;
+}
+
+.underline {
+   width: 1300px;
+   height: 2px;
+   background-color: black;
+   margin: 10px auto;
+}
+
+.text {
+   font-size: 30px;
+   color: #3f4650;
+}
+
+.lecturer {
+   font-size: 30px;
+   color: #951f1d;
+   font-weight: bold;
+}
+
+.lecturer-title {
+   font-size: 25px;
+   color: black;
+   letter-spacing: 2px;
+}
+
+.underline-lecturer {
+   width: 450px;
+   height: 2px;
+   background-color: black;
+   margin: 10px auto;
+}
