@@ -1,0 +1,120 @@
+body {
+   background-image: url('img/keyboard.jpg');
+   background-size: auto;
+   background-repeat: repeat;
+   font-family: 'Lexend Deca', sans-serif;
+   text-align: center;
+   font-size: 22px;
+}
+
+header {
+   border: 3px solid orangered;
+   background-color: orangered;
+   border-radius: 30px 0.1px;
+   padding: 1px 5px;
+   text-align: center;
+   font-size: 24px;
+   font-weight: bold;
+   width: 30%;
+   margin: 20px auto;
+}
+
+table {
+   width: 100%;
+}
+
+th,
+td {
+   text-align: center;
+   padding: 8px;
+}
+
+.nrp {
+   border: 6px solid green;
+   border-radius: 1200px 0px;
+   padding: 10px;
+   text-align: center;
+   font-size: 1em;
+}
+
+.name {
+   border: 6px solid green;
+   border-radius: 1200px 0px;
+   padding: 0px;
+   text-align: center;
+   font-size: 1em;
+}
+
+.bingo {
+   text-align: center;
+   font-size: 1em;
+}
+.circle {
+   width: 80px;
+   height: 80px;
+   border-radius: 50%;
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 16px;
+   font-weight: bold;
+   box-sizing: border-box;
+}
+.solid {
+   border: 5px solid black;
+}
+
+.dashed {
+   border: 5px dashed black;
+}
+
+.dashe {
+   border: 5px solid aqua;
+}
+.green {
+   background-color: green;
+   color: white;
+}
+
+.red {
+   background-color: red;
+   color: white;
+}
+
+.blue {
+   background-color: blue;
+   color: white;
+}
+
+.yellow {
+   background-color: yellow;
+   color: black;
+}
+
+.orange {
+   background-color: orangered;
+   color: black;
+}
+
+.beige {
+   background-color: beige;
+   color: black;
+}
+
+hr {
+   border: 2px solid blueviolet;
+   text-align: center;
+}
+
+ul {
+   list-style-type: none;
+   text-align: right;
+}
+
+a:visited {
+   color: purple;
+}
+a:hover {
+   color: pink;
+   font-weight: 3 em;
+}
